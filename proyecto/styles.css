@@ -1,39 +1,48 @@
 body {
-
+    background-color: #e7e7e7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
-    
+    background-color: #dc143c;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
 }
 
 h2 {
-    
+    background-color: #dc143c;
+    color: #ffffff;
+    padding: 5px;
 }
 
 h3 {
-    
+    color: #dc143c;
 }
 
 em {
-    
+    color: #067ada;
 }
 
 abbr {
-    
+    color: #dc143c;
 }
 
 mark {
-    
+    background-color: #ffffff;
+    color: #dc143c;
 }
 
 figcaption {
-    
+    background-color: #000000;
+    color: #ffffff;
+    padding: 6px;
 }
 
 figure {
-    
+    text-align: center;
 }
 
 p {
-    
+    line-height: 1.5;
 }
